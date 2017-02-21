@@ -1,0 +1,27 @@
+/* Color Palette adapted from: http://www.colourlovers.com/palette/149132/Blue_Hippopotamus */
+table {
+  text-align: left;
+  width: 100%;
+}
+
+h1, th {
+text-decoration: underline;
+font-weight: bolder;
+
+}
+
+tr.colorEven {
+  background-color: rgb(190,226, 231);
+
+}
+
+tr.colorOdd {
+  background-color: rgb(69, 72, 87);
+  color: rgb(190, 226, 231);
+}
+
+td:hover {
+  background-color: rgb(143, 0, 46);
+  color: rgb(79, 87, 170);
+
+}
